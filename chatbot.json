@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "nombreTecnico": "Juan",
+      "numeroOrden": "1235435",
+      "servicio":"Mantenimiento",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
