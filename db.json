@@ -2,7 +2,7 @@
   "posts": [
     {
       "nombreTecnico": "Juan",
-      "numeroOrden": "1235435",
+      "numeroOrden": 1235435,
       "servicio":"Mantenimiento"
     }
   ],
