@@ -1,9 +1,8 @@
 {
   "posts": [
     {
-      "nombreTecnico": "Juan",
-      "numeroOrden": 1235435,
-      "servicio":"Mantenimiento"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
